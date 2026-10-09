@@ -1,0 +1,240 @@
+{
+  "replay_matches_official": true,
+  "lidar": {
+    "confirmed": 502,
+    "matches": 502,
+    "sum_sq_err": 11.343648362852782,
+    "ghosts": 0,
+    "misses": 239,
+    "rmse": 0.1503226832163003,
+    "precision_track": 1.0,
+    "coverage": 0.9672447013487476,
+    "id_switches": 0
+  },
+  "fused": {
+    "confirmed": 502,
+    "matches": 502,
+    "sum_sq_err": 9.266810278002398,
+    "ghosts": 0,
+    "misses": 239,
+    "rmse": 0.13586677824355614,
+    "precision_track": 1.0,
+    "coverage": 0.9672447013487476,
+    "id_switches": 0
+  },
+  "camera_effect": {
+    "gt_id": "jT38g8qP7TxoFXreShjseQ",
+    "fused_track": 0,
+    "lidar_tracks": [
+      0
+    ],
+    "fused_tracks": [
+      0
+    ],
+    "overlay_frame": 88,
+    "overlay_dx": [
+      -0.0559526143404625,
+      0.2412164279338338,
+      -0.08758696968818946
+    ],
+    "pixel_before": [
+      537.244268284466,
+      795.6411850922702
+    ],
+    "pixel_meas": [
+      505.5688778758755,
+      806.686934614057
+    ],
+    "pixel_after": [
+      511.72355015587283,
+      804.5399369656782
+    ],
+    "mean_err_lidar": 0.14074534995682964,
+    "mean_err_fused": 0.16335054376422428,
+    "frames_matched_lidar": 195,
+    "frames_matched_fused": 195,
+    "n_camera_updates_on_track": 199
+  },
+  "per_vehicle": [
+    {
+      "gt": "jT38g8qP7TxoFXreShjseQ",
+      "frames": 195,
+      "rmse_lidar": 0.14826294827282746,
+      "rmse_fused": 0.1663544348258802
+    },
+    {
+      "gt": "mV--0dAvjt4OyGlzlXvfPw",
+      "frames": 195,
+      "rmse_lidar": 0.12236694346880592,
+      "rmse_fused": 0.09158363522302862
+    },
+    {
+      "gt": "8EFRSwEXBf9P-SzIDRzx0A",
+      "frames": 101,
+      "rmse_lidar": 0.1954263318097225,
+      "rmse_fused": 0.1402814622691589
+    }
+  ],
+  "calibration": [
+    {
+      "level": "baseline",
+      "yaw_deg": 0.0,
+      "lateral_m": 0.0,
+      "camera_updates": 509,
+      "mean_du_px": -11.8870533121155,
+      "mean_dv_px": 7.597150396551148,
+      "mean_nis": 2.24888701019141,
+      "median_track_min_d2": 1.6390651317464022,
+      "track_gate_miss_rate": 0.012244897959183673,
+      "rmse": 0.13586677824355614,
+      "matches": 502,
+      "ghosts": 0,
+      "misses": 239,
+      "precision_track": 1.0,
+      "coverage": 0.9672447013487476
+    },
+    {
+      "level": "yaw 0.25\u00b0",
+      "yaw_deg": 0.25,
+      "lateral_m": 0.0,
+      "camera_updates": 486,
+      "mean_du_px": -19.993523132440853,
+      "mean_dv_px": 7.5106111166480325,
+      "mean_nis": 4.546930043205695,
+      "median_track_min_d2": 4.388002115660348,
+      "track_gate_miss_rate": 0.06109979633401222,
+      "rmse": 0.17317281448574423,
+      "matches": 502,
+      "ghosts": 0,
+      "misses": 239,
+      "precision_track": 1.0,
+      "coverage": 0.9672447013487476
+    },
+    {
+      "level": "yaw 0.5\u00b0",
+      "yaw_deg": 0.5,
+      "lateral_m": 0.0,
+      "camera_updates": 322,
+      "mean_du_px": -26.895671796169488,
+      "mean_dv_px": 4.93296892009654,
+      "mean_nis": 7.284925351811723,
+      "median_track_min_d2": 9.117886547091626,
+      "track_gate_miss_rate": 0.3788187372708758,
+      "rmse": 0.21115493169476598,
+      "matches": 502,
+      "ghosts": 0,
+      "misses": 239,
+      "precision_track": 1.0,
+      "coverage": 0.9672447013487476
+    },
+    {
+      "level": "yaw 1\u00b0",
+      "yaw_deg": 1.0,
+      "lateral_m": 0.0,
+      "camera_updates": 20,
+      "mean_du_px": -74.96475045366299,
+      "mean_dv_px": -16.267505131922785,
+      "mean_nis": 3.5050480157398227,
+      "median_track_min_d2": 23.406080778659486,
+      "track_gate_miss_rate": 0.9735772357723578,
+      "rmse": 0.1725632983885847,
+      "matches": 502,
+      "ghosts": 0,
+      "misses": 239,
+      "precision_track": 1.0,
+      "coverage": 0.9672447013487476
+    },
+    {
+      "level": "yaw 2\u00b0",
+      "yaw_deg": 2.0,
+      "lateral_m": 0.0,
+      "camera_updates": 19,
+      "mean_du_px": -79.959372666448,
+      "mean_dv_px": -24.60451122922436,
+      "mean_nis": 3.919473543638726,
+      "median_track_min_d2": 66.59974171054772,
+      "track_gate_miss_rate": 0.9757085020242915,
+      "rmse": 0.17603836107792958,
+      "matches": 502,
+      "ghosts": 0,
+      "misses": 239,
+      "precision_track": 1.0,
+      "coverage": 0.9672447013487476
+    },
+    {
+      "level": "yaw 5\u00b0",
+      "yaw_deg": 5.0,
+      "lateral_m": 0.0,
+      "camera_updates": 28,
+      "mean_du_px": -51.8566203255471,
+      "mean_dv_px": -11.48403390039513,
+      "mean_nis": 2.0419554027321176,
+      "median_track_min_d2": 80.67613076126733,
+      "track_gate_miss_rate": 0.969939879759519,
+      "rmse": 0.15027805518972268,
+      "matches": 502,
+      "ghosts": 0,
+      "misses": 239,
+      "precision_track": 1.0,
+      "coverage": 0.9672447013487476
+    },
+    {
+      "level": "lateral 0.2 m",
+      "yaw_deg": 0.0,
+      "lateral_m": 0.2,
+      "camera_updates": 366,
+      "mean_du_px": -23.098211387744488,
+      "mean_dv_px": 4.32059041848358,
+      "mean_nis": 5.926395993903526,
+      "median_track_min_d2": 7.683319922865191,
+      "track_gate_miss_rate": 0.2973523421588595,
+      "rmse": 0.19028982606834835,
+      "matches": 502,
+      "ghosts": 0,
+      "misses": 239,
+      "precision_track": 1.0,
+      "coverage": 0.9672447013487476
+    },
+    {
+      "level": "lateral 0.5 m",
+      "yaw_deg": 0.0,
+      "lateral_m": 0.5,
+      "camera_updates": 24,
+      "mean_du_px": -67.95311190287663,
+      "mean_dv_px": -10.877707825423206,
+      "mean_nis": 3.9895775811407304,
+      "median_track_min_d2": 27.192268487513818,
+      "track_gate_miss_rate": 0.9655172413793104,
+      "rmse": 0.16205342535325568,
+      "matches": 502,
+      "ghosts": 0,
+      "misses": 239,
+      "precision_track": 1.0,
+      "coverage": 0.9672447013487476
+    },
+    {
+      "level": "lateral 1.0 m",
+      "yaw_deg": 0.0,
+      "lateral_m": 1.0,
+      "camera_updates": 20,
+      "mean_du_px": -82.32458618906199,
+      "mean_dv_px": -22.583636967484615,
+      "mean_nis": 3.7017138916060057,
+      "median_track_min_d2": 76.74406588016447,
+      "track_gate_miss_rate": 0.9738430583501007,
+      "rmse": 0.1796311469206404,
+      "matches": 502,
+      "ghosts": 0,
+      "misses": 239,
+      "precision_track": 1.0,
+      "coverage": 0.9672447013487476
+    }
+  ],
+  "cvat": {
+    "n_id_switches": 0,
+    "n_ghost_frames": 0,
+    "first_switches": [],
+    "first_ghosts": []
+  },
+  "gate_threshold_camera": 10.596634733096073
+}

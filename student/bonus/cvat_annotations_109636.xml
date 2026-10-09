@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta><task><labels><label><name>vehicle_track</name><attributes><attribute><name>track_id</name><input_type>number</input_type><values>0;100000;1</values></attribute></attributes></label></labels></task></meta>
+  <track id="0" label="vehicle_track" source="manual">
+    <box frame="4" keyframe="1" outside="0" occluded="0" xtl="142.2" ytl="751.7" xbr="511.4" ybr="1002.4" z_order="0"><attribute name="track_id">0</attribute></box>
+    <box frame="5" keyframe="1" outside="0" occluded="0" xtl="43.8" ytl="756.6" xbr="465.1" ybr="1033.6" z_order="0"><attribute name="track_id">0</attribute></box>
+    <box frame="6" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="733.5" xbr="451.3" ybr="1032.8" z_order="0"><attribute name="track_id">0</attribute></box>
+    <box frame="7" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="775.9" xbr="407.1" ybr="1131.8" z_order="0"><attribute name="track_id">0</attribute></box>
+    <box frame="8" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="758.3" xbr="344.9" ybr="1161.6" z_order="0"><attribute name="track_id">0</attribute></box>
+    <box frame="9" keyframe="1" outside="1" occluded="0" xtl="0.0" ytl="758.3" xbr="344.9" ybr="1161.6" z_order="0"><attribute name="track_id">0</attribute></box>
+  </track>
+  <track id="1" label="vehicle_track" source="manual">
+    <box frame="4" keyframe="1" outside="0" occluded="0" xtl="1122.8" ytl="713.6" xbr="1268.9" ybr="827.3" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="5" keyframe="1" outside="0" occluded="0" xtl="1126.9" ytl="711.8" xbr="1271.0" ybr="826.4" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="6" keyframe="1" outside="0" occluded="0" xtl="1128.9" ytl="705.2" xbr="1276.4" ybr="820.1" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="7" keyframe="1" outside="0" occluded="0" xtl="1132.4" ytl="705.0" xbr="1281.4" ybr="821.0" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="8" keyframe="1" outside="0" occluded="0" xtl="1131.8" ytl="707.5" xbr="1282.6" ybr="825.5" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="9" keyframe="1" outside="0" occluded="0" xtl="1136.6" ytl="709.5" xbr="1288.9" ybr="828.8" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="10" keyframe="1" outside="0" occluded="0" xtl="1139.7" ytl="708.1" xbr="1294.8" ybr="828.6" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="11" keyframe="1" outside="0" occluded="0" xtl="1143.8" ytl="707.8" xbr="1300.8" ybr="829.6" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="12" keyframe="1" outside="0" occluded="0" xtl="1148.6" ytl="709.4" xbr="1306.5" ybr="832.7" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="13" keyframe="1" outside="0" occluded="0" xtl="1150.9" ytl="713.5" xbr="1311.2" ybr="838.8" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="14" keyframe="1" outside="0" occluded="0" xtl="1155.1" ytl="710.6" xbr="1314.0" ybr="836.8" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="15" keyframe="1" outside="0" occluded="0" xtl="1155.9" ytl="708.8" xbr="1323.3" ybr="836.0" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="16" keyframe="1" outside="0" occluded="0" xtl="1157.5" ytl="705.9" xbr="1328.7" ybr="834.4" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="17" keyframe="1" outside="0" occluded="0" xtl="1158.2" ytl="704.3" xbr="1333.6" ybr="834.5" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="18" keyframe="1" outside="0" occluded="0" xtl="1161.5" ytl="706.7" xbr="1335.4" ybr="839.1" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="19" keyframe="1" outside="0" occluded="0" xtl="1164.7" ytl="710.5" xbr="1337.6" ybr="845.4" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="20" keyframe="1" outside="0" occluded="0" xtl="1166.8" ytl="712.1" xbr="1343.4" ybr="849.1" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="21" keyframe="1" outside="0" occluded="0" xtl="1168.4" ytl="710.2" xbr="1347.9" ybr="849.2" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="22" keyframe="1" outside="0" occluded="0" xtl="1171.4" ytl="706.6" xbr="1353.2" ybr="847.1" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="23" keyframe="1" outside="0" occluded="0" xtl="1173.8" ytl="704.2" xbr="1359.7" ybr="846.8" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="24" keyframe="1" outside="0" occluded="0" xtl="1177.2" ytl="704.8" xbr="1367.0" ybr="849.6" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="25" keyframe="1" outside="0" occluded="0" xtl="1175.9" ytl="706.1" xbr="1371.7" ybr="853.4" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="26" keyframe="1" outside="0" occluded="0" xtl="1180.1" ytl="704.5" xbr="1381.7" ybr="854.4" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="27" keyframe="1" outside="0" occluded="0" xtl="1185.0" ytl="707.8" xbr="1389.0" ybr="860.8" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="28" keyframe="1" outside="0" occluded="0" xtl="1183.6" ytl="708.7" xbr="1398.7" ybr="865.4" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="29" keyframe="1" outside="0" occluded="0" xtl="1188.6" ytl="712.9" xbr="1407.9" ybr="873.9" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="30" keyframe="1" outside="0" occluded="0" xtl="1189.4" ytl="712.0" xbr="1411.0" ybr="875.7" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="31" keyframe="1" outside="0" occluded="0" xtl="1194.2" ytl="712.6" xbr="1418.8" ybr="879.7" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="32" keyframe="1" outside="0" occluded="0" xtl="1196.7" ytl="711.4" xbr="1423.6" ybr="881.7" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="33" keyframe="1" outside="0" occluded="0" xtl="1198.5" ytl="709.4" xbr="1431.2" ybr="882.3" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="34" keyframe="1" outside="0" occluded="0" xtl="1204.0" ytl="711.5" xbr="1436.5" ybr="887.4" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="35" keyframe="1" outside="0" occluded="0" xtl="1207.4" ytl="715.0" xbr="1447.6" ybr="893.3" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="36" keyframe="1" outside="0" occluded="0" xtl="1210.7" ytl="716.2" xbr="1452.9" ybr="898.3" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="37" keyframe="1" outside="0" occluded="0" xtl="1214.0" ytl="717.5" xbr="1463.9" ybr="902.2" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="38" keyframe="1" outside="0" occluded="0" xtl="1218.6" ytl="720.8" xbr="1473.8" ybr="908.4" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="39" keyframe="1" outside="0" occluded="0" xtl="1222.4" ytl="723.1" xbr="1485.1" ybr="913.4" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="40" keyframe="1" outside="0" occluded="0" xtl="1225.1" ytl="722.7" xbr="1492.1" ybr="917.5" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="41" keyframe="1" outside="0" occluded="0" xtl="1227.0" ytl="726.8" xbr="1504.8" ybr="925.8" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="42" keyframe="1" outside="0" occluded="0" xtl="1232.9" ytl="729.6" xbr="1510.1" ybr="932.8" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="43" keyframe="1" outside="0" occluded="0" xtl="1234.6" ytl="729.3" xbr="1514.6" ybr="935.8" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="44" keyframe="1" outside="0" occluded="0" xtl="1238.3" ytl="727.1" xbr="1527.5" ybr="936.6" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="45" keyframe="1" outside="0" occluded="0" xtl="1241.6" ytl="726.3" xbr="1537.5" ybr="939.1" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="46" keyframe="1" outside="0" occluded="0" xtl="1246.7" ytl="735.0" xbr="1549.9" ybr="953.2" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="47" keyframe="1" outside="0" occluded="0" xtl="1250.0" ytl="737.7" xbr="1558.8" ybr="961.9" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="48" keyframe="1" outside="0" occluded="0" xtl="1254.7" ytl="737.2" xbr="1569.9" ybr="966.4" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="49" keyframe="1" outside="0" occluded="0" xtl="1261.7" ytl="736.0" xbr="1585.4" ybr="969.5" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="50" keyframe="1" outside="0" occluded="0" xtl="1270.4" ytl="737.5" xbr="1596.4" ybr="977.1" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="51" keyframe="1" outside="0" occluded="0" xtl="1273.9" ytl="743.5" xbr="1611.6" ybr="989.8" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="52" keyframe="1" outside="0" occluded="0" xtl="1279.4" ytl="749.8" xbr="1626.6" ybr="1003.8" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="53" keyframe="1" outside="0" occluded="0" xtl="1286.7" ytl="754.6" xbr="1644.3" ybr="1017.1" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="54" keyframe="1" outside="0" occluded="0" xtl="1293.5" ytl="757.3" xbr="1664.4" ybr="1026.1" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="55" keyframe="1" outside="0" occluded="0" xtl="1302.1" ytl="755.5" xbr="1685.5" ybr="1031.6" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="56" keyframe="1" outside="0" occluded="0" xtl="1308.6" ytl="756.4" xbr="1708.7" ybr="1039.1" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="57" keyframe="1" outside="0" occluded="0" xtl="1319.1" ytl="758.8" xbr="1735.3" ybr="1050.3" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="58" keyframe="1" outside="0" occluded="0" xtl="1328.3" ytl="767.4" xbr="1763.3" ybr="1069.6" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="59" keyframe="1" outside="0" occluded="0" xtl="1342.2" ytl="771.5" xbr="1792.1" ybr="1085.2" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="60" keyframe="1" outside="0" occluded="0" xtl="1356.7" ytl="767.0" xbr="1829.7" ybr="1087.7" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="61" keyframe="1" outside="0" occluded="0" xtl="1370.8" ytl="760.0" xbr="1862.5" ybr="1089.0" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="62" keyframe="1" outside="0" occluded="0" xtl="1379.3" ytl="762.3" xbr="1900.9" ybr="1102.2" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="63" keyframe="1" outside="0" occluded="0" xtl="1396.9" ytl="769.1" xbr="1919.0" ybr="1125.8" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="64" keyframe="1" outside="0" occluded="0" xtl="1408.0" ytl="784.2" xbr="1919.0" ybr="1161.4" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="65" keyframe="1" outside="0" occluded="0" xtl="1414.5" ytl="797.1" xbr="1919.0" ybr="1194.8" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="66" keyframe="1" outside="0" occluded="0" xtl="1415.8" ytl="805.5" xbr="1919.0" ybr="1221.6" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="67" keyframe="1" outside="0" occluded="0" xtl="1411.9" ytl="808.5" xbr="1919.0" ybr="1243.3" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="68" keyframe="1" outside="0" occluded="0" xtl="1410.7" ytl="809.7" xbr="1919.0" ybr="1263.7" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="69" keyframe="1" outside="0" occluded="0" xtl="1476.5" ytl="784.2" xbr="1919.0" ybr="1251.8" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="70" keyframe="1" outside="0" occluded="0" xtl="1486.3" ytl="785.7" xbr="1919.0" ybr="1279.0" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="71" keyframe="1" outside="0" occluded="0" xtl="1507.8" ytl="790.6" xbr="1919.0" ybr="1279.0" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="72" keyframe="1" outside="0" occluded="0" xtl="1526.5" ytl="791.5" xbr="1919.0" ybr="1279.0" z_order="0"><attribute name="track_id">1</attribute></box>
+    <box frame="73" keyframe="1" outside="1" occluded="0" xtl="1526.5" ytl="791.5" xbr="1919.0" ybr="1279.0" z_order="0"><attribute name="track_id">1</attribute></box>
+  </track>
+  <track id="2" label="vehicle_track" source="manual">
+    <box frame="4" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="781.6" xbr="325.3" ybr="1241.7" z_order="0"><attribute name="track_id">2</attribute></box>
+    <box frame="5" keyframe="1" outside="1" occluded="0" xtl="0.0" ytl="781.6" xbr="325.3" ybr="1241.7" z_order="0"><attribute name="track_id">2</attribute></box>
+  </track>
+  <track id="3" label="vehicle_track" source="manual">
+    <box frame="4" keyframe="1" outside="0" occluded="0" xtl="442.4" ytl="724.8" xbr="639.8" ybr="865.2" z_order="0"><attribute name="track_id">3</attribute></box>
+    <box frame="5" keyframe="1" outside="0" occluded="0" xtl="405.6" ytl="725.0" xbr="625.8" ybr="874.6" z_order="0"><attribute name="track_id">3</attribute></box>
+    <box frame="6" keyframe="1" outside="0" occluded="0" xtl="365.9" ytl="725.5" xbr="607.3" ybr="885.2" z_order="0"><attribute name="track_id">3</attribute></box>
+    <box frame="7" keyframe="1" outside="0" occluded="0" xtl="323.9" ytl="727.5" xbr="584.3" ybr="899.6" z_order="0"><attribute name="track_id">3</attribute></box>
+    <box frame="8" keyframe="1" outside="0" occluded="0" xtl="271.0" ytl="733.8" xbr="559.8" ybr="920.9" z_order="0"><attribute name="track_id">3</attribute></box>
+    <box frame="9" keyframe="1" outside="0" occluded="0" xtl="242.1" ytl="724.6" xbr="553.4" ybr="924.9" z_order="0"><attribute name="track_id">3</attribute></box>
+    <box frame="10" keyframe="1" outside="0" occluded="0" xtl="179.8" ytl="730.5" xbr="523.3" ybr="950.8" z_order="0"><attribute name="track_id">3</attribute></box>
+    <box frame="11" keyframe="1" outside="0" occluded="0" xtl="105.5" ytl="737.8" xbr="489.1" ybr="983.2" z_order="0"><attribute name="track_id">3</attribute></box>
+    <box frame="12" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="762.2" xbr="418.9" ybr="1045.0" z_order="0"><attribute name="track_id">3</attribute></box>
+    <box frame="13" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="775.4" xbr="406.9" ybr="1096.5" z_order="0"><attribute name="track_id">3</attribute></box>
+    <box frame="14" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="763.8" xbr="352.3" ybr="1125.3" z_order="0"><attribute name="track_id">3</attribute></box>
+    <box frame="15" keyframe="1" outside="1" occluded="0" xtl="0.0" ytl="763.8" xbr="352.3" ybr="1125.3" z_order="0"><attribute name="track_id">3</attribute></box>
+  </track>
+  <track id="4" label="vehicle_track" source="manual">
+    <box frame="4" keyframe="1" outside="0" occluded="0" xtl="619.3" ytl="705.0" xbr="741.9" ybr="802.4" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="5" keyframe="1" outside="0" occluded="0" xtl="602.9" ytl="702.8" xbr="741.8" ybr="803.9" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="6" keyframe="1" outside="0" occluded="0" xtl="590.3" ytl="700.8" xbr="730.6" ybr="805.8" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="7" keyframe="1" outside="0" occluded="0" xtl="570.8" ytl="702.2" xbr="724.0" ybr="811.9" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="8" keyframe="1" outside="0" occluded="0" xtl="553.5" ytl="706.5" xbr="715.6" ybr="822.1" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="9" keyframe="1" outside="0" occluded="0" xtl="536.2" ytl="709.9" xbr="705.0" ybr="831.3" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="10" keyframe="1" outside="0" occluded="0" xtl="512.0" ytl="711.1" xbr="699.1" ybr="839.4" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="11" keyframe="1" outside="0" occluded="0" xtl="490.4" ytl="712.8" xbr="683.3" ybr="848.4" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="12" keyframe="1" outside="0" occluded="0" xtl="463.2" ytl="717.7" xbr="669.2" ybr="862.0" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="13" keyframe="1" outside="0" occluded="0" xtl="432.7" ytl="725.7" xbr="651.9" ybr="879.8" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="14" keyframe="1" outside="0" occluded="0" xtl="397.6" ytl="727.7" xbr="635.7" ybr="892.1" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="15" keyframe="1" outside="0" occluded="0" xtl="358.0" ytl="729.0" xbr="618.3" ybr="904.7" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="16" keyframe="1" outside="0" occluded="0" xtl="314.4" ytl="730.3" xbr="594.6" ybr="919.4" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="17" keyframe="1" outside="0" occluded="0" xtl="289.2" ytl="720.3" xbr="594.0" ybr="921.8" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="18" keyframe="1" outside="0" occluded="0" xtl="226.4" ytl="729.9" xbr="566.7" ybr="951.7" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="19" keyframe="1" outside="0" occluded="0" xtl="144.9" ytl="735.6" xbr="532.4" ybr="981.7" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="20" keyframe="1" outside="0" occluded="0" xtl="56.5" ytl="744.0" xbr="493.3" ybr="1019.2" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="21" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="770.7" xbr="430.0" ybr="1091.8" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="22" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="780.0" xbr="416.8" ybr="1146.5" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="23" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="758.9" xbr="336.5" ybr="1176.0" z_order="0"><attribute name="track_id">4</attribute></box>
+    <box frame="24" keyframe="1" outside="1" occluded="0" xtl="0.0" ytl="758.9" xbr="336.5" ybr="1176.0" z_order="0"><attribute name="track_id">4</attribute></box>
+  </track>
+  <track id="5" label="vehicle_track" source="manual">
+    <box frame="4" keyframe="1" outside="0" occluded="0" xtl="1309.6" ytl="683.9" xbr="1870.3" ybr="1106.5" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="5" keyframe="1" outside="0" occluded="0" xtl="1342.7" ytl="684.7" xbr="1867.0" ybr="1123.2" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="6" keyframe="1" outside="0" occluded="0" xtl="1392.1" ytl="681.4" xbr="1804.4" ybr="1138.7" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="7" keyframe="1" outside="0" occluded="0" xtl="1366.1" ytl="680.2" xbr="1914.6" ybr="1149.5" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="8" keyframe="1" outside="0" occluded="0" xtl="1391.2" ytl="683.8" xbr="1919.0" ybr="1167.8" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="9" keyframe="1" outside="0" occluded="0" xtl="1314.6" ytl="684.1" xbr="1810.6" ybr="1189.8" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="10" keyframe="1" outside="0" occluded="0" xtl="1350.2" ytl="685.0" xbr="1919.0" ybr="1203.2" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="11" keyframe="1" outside="0" occluded="0" xtl="1354.3" ytl="686.1" xbr="1919.0" ybr="1227.1" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="12" keyframe="1" outside="0" occluded="0" xtl="1373.4" ytl="690.2" xbr="1919.0" ybr="1252.0" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="13" keyframe="1" outside="0" occluded="0" xtl="1343.7" ytl="691.0" xbr="1919.0" ybr="1277.4" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="14" keyframe="1" outside="0" occluded="0" xtl="1396.7" ytl="650.8" xbr="1919.0" ybr="1250.0" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="15" keyframe="1" outside="0" occluded="0" xtl="1305.0" ytl="691.7" xbr="1919.0" ybr="1279.0" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="16" keyframe="1" outside="0" occluded="0" xtl="1402.8" ytl="644.7" xbr="1919.0" ybr="1279.0" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="17" keyframe="1" outside="0" occluded="0" xtl="1397.7" ytl="634.9" xbr="1919.0" ybr="1279.0" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="18" keyframe="1" outside="0" occluded="0" xtl="1383.1" ytl="628.7" xbr="1919.0" ybr="1279.0" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="19" keyframe="1" outside="0" occluded="0" xtl="1416.5" ytl="630.3" xbr="1919.0" ybr="1279.0" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="20" keyframe="1" outside="0" occluded="0" xtl="1441.9" ytl="629.7" xbr="1919.0" ybr="1279.0" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="21" keyframe="1" outside="0" occluded="0" xtl="1409.9" ytl="621.7" xbr="1919.0" ybr="1279.0" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="22" keyframe="1" outside="0" occluded="0" xtl="1462.0" ytl="596.8" xbr="1919.0" ybr="1279.0" z_order="0"><attribute name="track_id">5</attribute></box>
+    <box frame="23" keyframe="1" outside="1" occluded="0" xtl="1462.0" ytl="596.8" xbr="1919.0" ybr="1279.0" z_order="0"><attribute name="track_id">5</attribute></box>
+  </track>
+  <track id="6" label="vehicle_track" source="manual">
+    <box frame="8" keyframe="1" outside="0" occluded="0" xtl="634.4" ytl="692.9" xbr="749.2" ybr="788.9" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="9" keyframe="1" outside="0" occluded="0" xtl="628.0" ytl="697.3" xbr="737.2" ybr="796.1" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="10" keyframe="1" outside="0" occluded="0" xtl="613.9" ytl="699.8" xbr="736.2" ybr="801.5" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="11" keyframe="1" outside="0" occluded="0" xtl="609.5" ytl="699.9" xbr="727.0" ybr="804.4" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="12" keyframe="1" outside="0" occluded="0" xtl="590.3" ytl="702.1" xbr="722.3" ybr="810.7" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="13" keyframe="1" outside="0" occluded="0" xtl="570.8" ytl="706.9" xbr="713.2" ybr="820.3" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="14" keyframe="1" outside="0" occluded="0" xtl="553.7" ytl="707.8" xbr="704.5" ybr="826.1" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="15" keyframe="1" outside="0" occluded="0" xtl="536.3" ytl="705.9" xbr="694.9" ybr="829.1" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="16" keyframe="1" outside="0" occluded="0" xtl="516.4" ytl="704.3" xbr="684.6" ybr="833.2" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="17" keyframe="1" outside="0" occluded="0" xtl="489.6" ytl="707.9" xbr="669.3" ybr="843.5" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="18" keyframe="1" outside="0" occluded="0" xtl="464.0" ytl="712.4" xbr="650.0" ybr="856.0" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="19" keyframe="1" outside="0" occluded="0" xtl="423.2" ytl="721.6" xbr="631.7" ybr="874.7" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="20" keyframe="1" outside="0" occluded="0" xtl="385.1" ytl="726.2" xbr="606.8" ybr="888.2" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="21" keyframe="1" outside="0" occluded="0" xtl="340.2" ytl="728.1" xbr="585.1" ybr="901.1" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="22" keyframe="1" outside="0" occluded="0" xtl="286.0" ytl="727.4" xbr="559.7" ybr="912.8" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="23" keyframe="1" outside="0" occluded="0" xtl="224.8" ytl="730.7" xbr="531.3" ybr="929.7" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="24" keyframe="1" outside="0" occluded="0" xtl="186.4" ytl="719.0" xbr="516.9" ybr="931.0" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="25" keyframe="1" outside="0" occluded="0" xtl="74.0" ytl="743.8" xbr="455.1" ybr="983.8" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="26" keyframe="1" outside="0" occluded="0" xtl="24.3" ytl="734.3" xbr="441.4" ybr="993.1" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="27" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="757.7" xbr="395.7" ybr="1056.3" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="28" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="774.6" xbr="381.8" ybr="1110.6" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="29" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="759.8" xbr="288.4" ybr="1138.7" z_order="0"><attribute name="track_id">7</attribute></box>
+    <box frame="30" keyframe="1" outside="1" occluded="0" xtl="0.0" ytl="759.8" xbr="288.4" ybr="1138.7" z_order="0"><attribute name="track_id">7</attribute></box>
+  </track>
+  <track id="7" label="vehicle_track" source="manual">
+    <box frame="22" keyframe="1" outside="0" occluded="0" xtl="1095.1" ytl="674.0" xbr="1213.1" ybr="771.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="23" keyframe="1" outside="0" occluded="0" xtl="1100.8" ytl="670.2" xbr="1211.0" ybr="767.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="24" keyframe="1" outside="0" occluded="0" xtl="1099.6" ytl="673.6" xbr="1214.3" ybr="770.8" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="25" keyframe="1" outside="0" occluded="0" xtl="1104.3" ytl="671.6" xbr="1214.9" ybr="769.2" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="26" keyframe="1" outside="0" occluded="0" xtl="1105.2" ytl="672.7" xbr="1219.7" ybr="771.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="27" keyframe="1" outside="0" occluded="0" xtl="1109.8" ytl="674.1" xbr="1223.9" ybr="772.5" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="28" keyframe="1" outside="0" occluded="0" xtl="1108.5" ytl="677.1" xbr="1228.8" ybr="776.3" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="29" keyframe="1" outside="0" occluded="0" xtl="1108.6" ytl="680.2" xbr="1238.1" ybr="780.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="30" keyframe="1" outside="0" occluded="0" xtl="1112.8" ytl="676.4" xbr="1236.6" ybr="776.9" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="31" keyframe="1" outside="0" occluded="0" xtl="1112.2" ytl="673.1" xbr="1237.7" ybr="774.7" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="32" keyframe="1" outside="0" occluded="0" xtl="1111.2" ytl="674.0" xbr="1240.3" ybr="776.6" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="33" keyframe="1" outside="0" occluded="0" xtl="1109.9" ytl="671.1" xbr="1246.3" ybr="774.9" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="34" keyframe="1" outside="0" occluded="0" xtl="1116.4" ytl="668.4" xbr="1249.5" ybr="774.1" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="35" keyframe="1" outside="0" occluded="0" xtl="1116.7" ytl="675.6" xbr="1250.3" ybr="783.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="36" keyframe="1" outside="0" occluded="0" xtl="1118.7" ytl="676.0" xbr="1254.3" ybr="784.2" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="37" keyframe="1" outside="0" occluded="0" xtl="1121.5" ytl="674.1" xbr="1253.2" ybr="783.3" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="38" keyframe="1" outside="0" occluded="0" xtl="1122.0" ytl="673.2" xbr="1259.5" ybr="783.8" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="39" keyframe="1" outside="0" occluded="0" xtl="1121.7" ytl="676.0" xbr="1263.6" ybr="787.7" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="40" keyframe="1" outside="0" occluded="0" xtl="1123.7" ytl="676.2" xbr="1264.8" ybr="789.2" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="41" keyframe="1" outside="0" occluded="0" xtl="1123.2" ytl="675.1" xbr="1263.9" ybr="789.9" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="42" keyframe="1" outside="0" occluded="0" xtl="1125.5" ytl="680.5" xbr="1264.9" ybr="797.5" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="43" keyframe="1" outside="0" occluded="0" xtl="1124.6" ytl="680.2" xbr="1269.8" ybr="798.4" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="44" keyframe="1" outside="0" occluded="0" xtl="1123.1" ytl="673.7" xbr="1276.5" ybr="792.2" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="45" keyframe="1" outside="0" occluded="0" xtl="1126.0" ytl="673.7" xbr="1272.9" ybr="794.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="46" keyframe="1" outside="0" occluded="0" xtl="1127.1" ytl="679.1" xbr="1277.1" ybr="802.2" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="47" keyframe="1" outside="0" occluded="0" xtl="1126.9" ytl="682.9" xbr="1281.2" ybr="807.6" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="48" keyframe="1" outside="0" occluded="0" xtl="1130.1" ytl="681.2" xbr="1284.2" ybr="807.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="49" keyframe="1" outside="0" occluded="0" xtl="1131.3" ytl="679.5" xbr="1286.5" ybr="805.8" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="50" keyframe="1" outside="0" occluded="0" xtl="1134.6" ytl="678.2" xbr="1288.5" ybr="805.6" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="51" keyframe="1" outside="0" occluded="0" xtl="1135.0" ytl="681.4" xbr="1291.6" ybr="811.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="52" keyframe="1" outside="0" occluded="0" xtl="1135.8" ytl="690.9" xbr="1296.8" ybr="822.4" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="53" keyframe="1" outside="0" occluded="0" xtl="1141.1" ytl="691.0" xbr="1300.3" ybr="824.8" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="54" keyframe="1" outside="0" occluded="0" xtl="1140.7" ytl="693.0" xbr="1308.8" ybr="828.7" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="55" keyframe="1" outside="0" occluded="0" xtl="1148.5" ytl="689.2" xbr="1310.6" ybr="825.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="56" keyframe="1" outside="0" occluded="0" xtl="1151.3" ytl="686.9" xbr="1319.0" ybr="823.2" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="57" keyframe="1" outside="0" occluded="0" xtl="1157.6" ytl="688.9" xbr="1323.0" ybr="827.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="58" keyframe="1" outside="0" occluded="0" xtl="1162.1" ytl="694.5" xbr="1328.0" ybr="834.9" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="59" keyframe="1" outside="0" occluded="0" xtl="1166.7" ytl="691.9" xbr="1334.7" ybr="833.2" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="60" keyframe="1" outside="0" occluded="0" xtl="1171.6" ytl="687.2" xbr="1345.7" ybr="830.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="61" keyframe="1" outside="0" occluded="0" xtl="1180.7" ytl="677.5" xbr="1354.1" ybr="821.5" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="62" keyframe="1" outside="0" occluded="0" xtl="1182.0" ytl="672.6" xbr="1367.2" ybr="818.5" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="63" keyframe="1" outside="0" occluded="0" xtl="1189.1" ytl="677.6" xbr="1379.1" ybr="827.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="64" keyframe="1" outside="0" occluded="0" xtl="1194.4" ytl="687.2" xbr="1382.7" ybr="840.8" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="65" keyframe="1" outside="0" occluded="0" xtl="1195.6" ytl="695.0" xbr="1388.8" ybr="852.4" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="66" keyframe="1" outside="0" occluded="0" xtl="1196.1" ytl="694.7" xbr="1393.6" ybr="855.4" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="67" keyframe="1" outside="0" occluded="0" xtl="1198.8" ytl="690.3" xbr="1399.6" ybr="853.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="68" keyframe="1" outside="0" occluded="0" xtl="1200.4" ytl="685.4" xbr="1407.4" ybr="849.9" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="69" keyframe="1" outside="0" occluded="0" xtl="1200.0" ytl="684.4" xbr="1413.2" ybr="851.2" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="70" keyframe="1" outside="0" occluded="0" xtl="1201.6" ytl="682.2" xbr="1413.1" ybr="852.1" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="71" keyframe="1" outside="0" occluded="0" xtl="1199.1" ytl="686.4" xbr="1419.6" ybr="859.9" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="72" keyframe="1" outside="0" occluded="0" xtl="1195.6" ytl="684.6" xbr="1425.5" ybr="860.8" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="73" keyframe="1" outside="0" occluded="0" xtl="1195.7" ytl="688.2" xbr="1423.2" ybr="869.4" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="74" keyframe="1" outside="0" occluded="0" xtl="1195.3" ytl="692.4" xbr="1422.6" ybr="876.9" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="75" keyframe="1" outside="0" occluded="0" xtl="1189.0" ytl="697.1" xbr="1425.0" ybr="884.1" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="76" keyframe="1" outside="0" occluded="0" xtl="1186.2" ytl="701.8" xbr="1426.9" ybr="892.3" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="77" keyframe="1" outside="0" occluded="0" xtl="1183.4" ytl="700.3" xbr="1423.1" ybr="894.2" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="78" keyframe="1" outside="0" occluded="0" xtl="1182.8" ytl="694.7" xbr="1427.3" ybr="890.3" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="79" keyframe="1" outside="0" occluded="0" xtl="1183.3" ytl="688.9" xbr="1430.2" ybr="885.1" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="80" keyframe="1" outside="0" occluded="0" xtl="1184.8" ytl="681.0" xbr="1431.3" ybr="878.9" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="81" keyframe="1" outside="0" occluded="0" xtl="1186.4" ytl="687.0" xbr="1444.2" ybr="887.9" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="82" keyframe="1" outside="0" occluded="0" xtl="1188.7" ytl="692.0" xbr="1450.9" ybr="898.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="83" keyframe="1" outside="0" occluded="0" xtl="1191.4" ytl="698.9" xbr="1454.5" ybr="909.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="84" keyframe="1" outside="0" occluded="0" xtl="1195.9" ytl="698.0" xbr="1463.0" ybr="910.8" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="85" keyframe="1" outside="0" occluded="0" xtl="1197.3" ytl="696.9" xbr="1478.7" ybr="913.2" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="86" keyframe="1" outside="0" occluded="0" xtl="1208.6" ytl="694.4" xbr="1479.7" ybr="914.7" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="87" keyframe="1" outside="0" occluded="0" xtl="1208.7" ytl="696.5" xbr="1493.5" ybr="920.1" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="88" keyframe="1" outside="0" occluded="0" xtl="1211.6" ytl="697.3" xbr="1506.9" ybr="924.4" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="89" keyframe="1" outside="0" occluded="0" xtl="1214.1" ytl="697.1" xbr="1511.1" ybr="927.6" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="90" keyframe="1" outside="0" occluded="0" xtl="1220.6" ytl="696.5" xbr="1516.3" ybr="930.8" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="91" keyframe="1" outside="0" occluded="0" xtl="1218.9" ytl="698.3" xbr="1526.5" ybr="935.3" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="92" keyframe="1" outside="0" occluded="0" xtl="1216.4" ytl="699.3" xbr="1530.5" ybr="939.2" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="93" keyframe="1" outside="0" occluded="0" xtl="1218.4" ytl="700.3" xbr="1533.3" ybr="943.8" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="94" keyframe="1" outside="0" occluded="0" xtl="1214.9" ytl="701.4" xbr="1540.7" ybr="950.9" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="95" keyframe="1" outside="0" occluded="0" xtl="1213.3" ytl="702.8" xbr="1544.8" ybr="957.4" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="96" keyframe="1" outside="0" occluded="0" xtl="1218.8" ytl="705.0" xbr="1543.2" ybr="963.9" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="97" keyframe="1" outside="0" occluded="0" xtl="1213.7" ytl="707.3" xbr="1552.4" ybr="970.2" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="98" keyframe="1" outside="0" occluded="0" xtl="1212.1" ytl="709.4" xbr="1560.2" ybr="976.7" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="99" keyframe="1" outside="0" occluded="0" xtl="1216.7" ytl="712.5" xbr="1561.5" ybr="985.9" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="100" keyframe="1" outside="0" occluded="0" xtl="1214.7" ytl="710.1" xbr="1569.9" ybr="987.4" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="101" keyframe="1" outside="0" occluded="0" xtl="1216.5" ytl="714.3" xbr="1581.8" ybr="999.5" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="102" keyframe="1" outside="0" occluded="0" xtl="1214.5" ytl="718.2" xbr="1594.4" ybr="1010.8" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="103" keyframe="1" outside="0" occluded="0" xtl="1218.4" ytl="721.6" xbr="1601.2" ybr="1023.3" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="104" keyframe="1" outside="0" occluded="0" xtl="1223.2" ytl="716.9" xbr="1617.1" ybr="1024.6" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="105" keyframe="1" outside="0" occluded="0" xtl="1224.0" ytl="709.7" xbr="1638.7" ybr="1023.3" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="106" keyframe="1" outside="0" occluded="0" xtl="1231.5" ytl="703.7" xbr="1650.3" ybr="1021.1" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="107" keyframe="1" outside="0" occluded="0" xtl="1235.3" ytl="699.9" xbr="1673.0" ybr="1026.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="108" keyframe="1" outside="0" occluded="0" xtl="1243.0" ytl="695.7" xbr="1692.5" ybr="1031.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="109" keyframe="1" outside="0" occluded="0" xtl="1249.6" ytl="702.4" xbr="1712.2" ybr="1048.8" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="110" keyframe="1" outside="0" occluded="0" xtl="1252.4" ytl="708.3" xbr="1739.4" ybr="1067.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="111" keyframe="1" outside="0" occluded="0" xtl="1258.6" ytl="707.0" xbr="1763.2" ybr="1074.5" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="112" keyframe="1" outside="0" occluded="0" xtl="1275.3" ytl="705.8" xbr="1774.3" ybr="1082.3" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="113" keyframe="1" outside="0" occluded="0" xtl="1280.5" ytl="705.2" xbr="1806.6" ybr="1091.3" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="114" keyframe="1" outside="0" occluded="0" xtl="1292.5" ytl="703.1" xbr="1817.4" ybr="1097.7" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="115" keyframe="1" outside="0" occluded="0" xtl="1287.1" ytl="705.2" xbr="1841.8" ybr="1111.9" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="116" keyframe="1" outside="0" occluded="0" xtl="1291.7" ytl="706.2" xbr="1861.9" ybr="1120.8" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="117" keyframe="1" outside="0" occluded="0" xtl="1297.8" ytl="712.8" xbr="1871.2" ybr="1138.8" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="118" keyframe="1" outside="0" occluded="0" xtl="1299.5" ytl="714.2" xbr="1889.6" ybr="1151.5" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="119" keyframe="1" outside="0" occluded="0" xtl="1304.4" ytl="715.6" xbr="1904.2" ybr="1161.6" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="120" keyframe="1" outside="0" occluded="0" xtl="1306.4" ytl="713.8" xbr="1907.1" ybr="1164.8" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="121" keyframe="1" outside="0" occluded="0" xtl="1310.4" ytl="712.3" xbr="1916.4" ybr="1167.8" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="122" keyframe="1" outside="0" occluded="0" xtl="1309.5" ytl="715.4" xbr="1919.0" ybr="1179.4" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="123" keyframe="1" outside="0" occluded="0" xtl="1313.3" ytl="719.4" xbr="1919.0" ybr="1194.0" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="124" keyframe="1" outside="0" occluded="0" xtl="1324.1" ytl="722.3" xbr="1919.0" ybr="1203.1" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="125" keyframe="1" outside="0" occluded="0" xtl="1332.3" ytl="720.4" xbr="1919.0" ybr="1206.5" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="126" keyframe="1" outside="0" occluded="0" xtl="1342.1" ytl="719.7" xbr="1919.0" ybr="1212.9" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="127" keyframe="1" outside="0" occluded="0" xtl="1352.6" ytl="715.1" xbr="1919.0" ybr="1216.1" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="128" keyframe="1" outside="0" occluded="0" xtl="1361.4" ytl="714.7" xbr="1919.0" ybr="1220.5" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="129" keyframe="1" outside="0" occluded="0" xtl="1369.5" ytl="714.7" xbr="1919.0" ybr="1226.8" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="130" keyframe="1" outside="0" occluded="0" xtl="1387.9" ytl="715.0" xbr="1919.0" ybr="1236.9" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="131" keyframe="1" outside="0" occluded="0" xtl="1417.4" ytl="717.6" xbr="1919.0" ybr="1246.6" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="132" keyframe="1" outside="0" occluded="0" xtl="1436.3" ytl="718.9" xbr="1919.0" ybr="1257.7" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="133" keyframe="1" outside="0" occluded="0" xtl="1457.7" ytl="720.8" xbr="1919.0" ybr="1263.3" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="134" keyframe="1" outside="0" occluded="0" xtl="1488.9" ytl="719.5" xbr="1919.0" ybr="1267.2" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="135" keyframe="1" outside="0" occluded="0" xtl="1563.9" ytl="669.8" xbr="1919.0" ybr="1194.8" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="136" keyframe="1" outside="0" occluded="0" xtl="1602.9" ytl="666.6" xbr="1919.0" ybr="1188.4" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="137" keyframe="1" outside="0" occluded="0" xtl="1648.0" ytl="679.8" xbr="1919.0" ybr="1205.1" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="138" keyframe="1" outside="0" occluded="0" xtl="1699.1" ytl="675.9" xbr="1919.0" ybr="1195.4" z_order="0"><attribute name="track_id">9</attribute></box>
+    <box frame="139" keyframe="1" outside="1" occluded="0" xtl="1699.1" ytl="675.9" xbr="1919.0" ybr="1195.4" z_order="0"><attribute name="track_id">9</attribute></box>
+  </track>
+  <track id="8" label="vehicle_track" source="manual">
+    <box frame="24" keyframe="1" outside="0" occluded="0" xtl="468.5" ytl="669.7" xbr="592.2" ybr="800.1" z_order="0"><attribute name="track_id">11</attribute></box>
+    <box frame="25" keyframe="1" outside="0" occluded="0" xtl="435.8" ytl="674.7" xbr="579.8" ybr="810.6" z_order="0"><attribute name="track_id">11</attribute></box>
+    <box frame="26" keyframe="1" outside="0" occluded="0" xtl="403.7" ytl="675.2" xbr="569.8" ybr="816.4" z_order="0"><attribute name="track_id">11</attribute></box>
+    <box frame="27" keyframe="1" outside="0" occluded="0" xtl="383.1" ytl="676.1" xbr="542.8" ybr="824.2" z_order="0"><attribute name="track_id">11</attribute></box>
+    <box frame="28" keyframe="1" outside="0" occluded="0" xtl="342.0" ytl="682.5" xbr="524.9" ybr="840.1" z_order="0"><attribute name="track_id">11</attribute></box>
+    <box frame="29" keyframe="1" outside="0" occluded="0" xtl="301.7" ytl="686.1" xbr="505.2" ybr="853.7" z_order="0"><attribute name="track_id">11</attribute></box>
+    <box frame="30" keyframe="1" outside="0" occluded="0" xtl="255.8" ytl="689.5" xbr="478.2" ybr="867.4" z_order="0"><attribute name="track_id">11</attribute></box>
+    <box frame="31" keyframe="1" outside="0" occluded="0" xtl="234.7" ytl="684.3" xbr="460.8" ybr="873.2" z_order="0"><attribute name="track_id">11</attribute></box>
+    <box frame="32" keyframe="1" outside="0" occluded="0" xtl="177.7" ytl="686.1" xbr="432.7" ybr="890.5" z_order="0"><attribute name="track_id">11</attribute></box>
+    <box frame="33" keyframe="1" outside="0" occluded="0" xtl="106.5" ytl="688.0" xbr="400.0" ybr="908.7" z_order="0"><attribute name="track_id">11</attribute></box>
+    <box frame="34" keyframe="1" outside="0" occluded="0" xtl="25.9" ytl="688.9" xbr="354.0" ybr="930.8" z_order="0"><attribute name="track_id">11</attribute></box>
+    <box frame="35" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="700.3" xbr="302.6" ybr="972.7" z_order="0"><attribute name="track_id">11</attribute></box>
+    <box frame="36" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="708.0" xbr="288.1" ybr="1011.0" z_order="0"><attribute name="track_id">11</attribute></box>
+    <box frame="37" keyframe="1" outside="1" occluded="0" xtl="0.0" ytl="708.0" xbr="288.1" ybr="1011.0" z_order="0"><attribute name="track_id">11</attribute></box>
+  </track>
+  <track id="9" label="vehicle_track" source="manual">
+    <box frame="30" keyframe="1" outside="0" occluded="0" xtl="167.9" ytl="711.8" xbr="305.2" ybr="818.4" z_order="0"><attribute name="track_id">12</attribute></box>
+    <box frame="31" keyframe="1" outside="0" occluded="0" xtl="135.0" ytl="707.1" xbr="286.0" ybr="820.6" z_order="0"><attribute name="track_id">12</attribute></box>
+    <box frame="32" keyframe="1" outside="0" occluded="0" xtl="83.4" ytl="708.8" xbr="256.0" ybr="831.5" z_order="0"><attribute name="track_id">12</attribute></box>
+    <box frame="33" keyframe="1" outside="0" occluded="0" xtl="19.2" ytl="709.4" xbr="221.7" ybr="842.1" z_order="0"><attribute name="track_id">12</attribute></box>
+    <box frame="34" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="719.6" xbr="168.8" ybr="865.8" z_order="0"><attribute name="track_id">12</attribute></box>
+    <box frame="35" keyframe="1" outside="1" occluded="0" xtl="0.0" ytl="719.6" xbr="168.8" ybr="865.8" z_order="0"><attribute name="track_id">12</attribute></box>
+  </track>
+  <track id="10" label="vehicle_track" source="manual">
+    <box frame="42" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="718.0" xbr="137.6" ybr="820.2" z_order="0"><attribute name="track_id">13</attribute></box>
+    <box frame="43" keyframe="1" outside="1" occluded="0" xtl="0.0" ytl="718.0" xbr="137.6" ybr="820.2" z_order="0"><attribute name="track_id">13</attribute></box>
+  </track>
+  <track id="11" label="vehicle_track" source="manual">
+    <box frame="51" keyframe="1" outside="0" occluded="0" xtl="194.0" ytl="705.2" xbr="354.7" ybr="801.4" z_order="0"><attribute name="track_id">15</attribute></box>
+    <box frame="52" keyframe="1" outside="0" occluded="0" xtl="152.1" ytl="713.2" xbr="319.7" ybr="817.0" z_order="0"><attribute name="track_id">15</attribute></box>
+    <box frame="53" keyframe="1" outside="0" occluded="0" xtl="99.5" ytl="720.0" xbr="285.7" ybr="832.9" z_order="0"><attribute name="track_id">15</attribute></box>
+    <box frame="54" keyframe="1" outside="0" occluded="0" xtl="48.7" ytl="722.1" xbr="246.4" ybr="844.1" z_order="0"><attribute name="track_id">15</attribute></box>
+    <box frame="55" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="720.6" xbr="207.5" ybr="852.1" z_order="0"><attribute name="track_id">15</attribute></box>
+    <box frame="56" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="724.8" xbr="187.0" ybr="868.5" z_order="0"><attribute name="track_id">15</attribute></box>
+    <box frame="57" keyframe="1" outside="1" occluded="0" xtl="0.0" ytl="724.8" xbr="187.0" ybr="868.5" z_order="0"><attribute name="track_id">15</attribute></box>
+  </track>
+  <track id="12" label="vehicle_track" source="manual">
+    <box frame="57" keyframe="1" outside="0" occluded="0" xtl="934.7" ytl="686.7" xbr="1040.9" ybr="765.2" z_order="0"><attribute name="track_id">16</attribute></box>
+    <box frame="58" keyframe="1" outside="0" occluded="0" xtl="931.0" ytl="698.0" xbr="1037.9" ybr="778.0" z_order="0"><attribute name="track_id">16</attribute></box>
+    <box frame="59" keyframe="1" outside="0" occluded="0" xtl="950.1" ytl="693.4" xbr="1041.0" ybr="772.9" z_order="0"><attribute name="track_id">16</attribute></box>
+    <box frame="60" keyframe="1" outside="0" occluded="0" xtl="956.9" ytl="686.4" xbr="1049.5" ybr="765.5" z_order="0"><attribute name="track_id">16</attribute></box>
+    <box frame="61" keyframe="1" outside="0" occluded="0" xtl="955.2" ytl="682.5" xbr="1048.1" ybr="761.6" z_order="0"><attribute name="track_id">16</attribute></box>
+    <box frame="62" keyframe="1" outside="0" occluded="0" xtl="960.0" ytl="675.1" xbr="1060.9" ybr="754.2" z_order="0"><attribute name="track_id">16</attribute></box>
+    <box frame="63" keyframe="1" outside="0" occluded="0" xtl="959.9" ytl="680.3" xbr="1064.7" ybr="760.0" z_order="0"><attribute name="track_id">16</attribute></box>
+    <box frame="64" keyframe="1" outside="0" occluded="0" xtl="963.5" ytl="690.7" xbr="1062.3" ybr="771.4" z_order="0"><attribute name="track_id">16</attribute></box>
+    <box frame="65" keyframe="1" outside="0" occluded="0" xtl="966.7" ytl="698.5" xbr="1060.2" ybr="779.8" z_order="0"><attribute name="track_id">16</attribute></box>
+    <box frame="66" keyframe="1" outside="0" occluded="0" xtl="965.3" ytl="703.0" xbr="1059.2" ybr="785.2" z_order="0"><attribute name="track_id">16</attribute></box>
+    <box frame="67" keyframe="1" outside="0" occluded="0" xtl="961.5" ytl="698.9" xbr="1055.5" ybr="781.2" z_order="0"><attribute name="track_id">16</attribute></box>
+    <box frame="68" keyframe="1" outside="1" occluded="0" xtl="961.5" ytl="698.9" xbr="1055.5" ybr="781.2" z_order="0"><attribute name="track_id">16</attribute></box>
+  </track>
+  <track id="13" label="vehicle_track" source="manual">
+    <box frame="67" keyframe="1" outside="0" occluded="0" xtl="117.7" ytl="717.5" xbr="303.6" ybr="817.3" z_order="0"><attribute name="track_id">17</attribute></box>
+    <box frame="68" keyframe="1" outside="0" occluded="0" xtl="75.3" ytl="714.5" xbr="269.3" ybr="819.8" z_order="0"><attribute name="track_id">17</attribute></box>
+    <box frame="69" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="716.1" xbr="205.9" ybr="830.8" z_order="0"><attribute name="track_id">17</attribute></box>
+    <box frame="70" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="718.0" xbr="174.2" ybr="842.3" z_order="0"><attribute name="track_id">17</attribute></box>
+    <box frame="71" keyframe="1" outside="1" occluded="0" xtl="0.0" ytl="718.0" xbr="174.2" ybr="842.3" z_order="0"><attribute name="track_id">17</attribute></box>
+  </track>
+  <track id="14" label="vehicle_track" source="manual">
+    <box frame="73" keyframe="1" outside="0" occluded="0" xtl="938.7" ytl="691.1" xbr="1044.3" ybr="776.0" z_order="0"><attribute name="track_id">18</attribute></box>
+    <box frame="74" keyframe="1" outside="0" occluded="0" xtl="930.6" ytl="693.4" xbr="1038.5" ybr="778.9" z_order="0"><attribute name="track_id">18</attribute></box>
+    <box frame="75" keyframe="1" outside="0" occluded="0" xtl="922.1" ytl="702.1" xbr="1030.1" ybr="789.2" z_order="0"><attribute name="track_id">18</attribute></box>
+    <box frame="76" keyframe="1" outside="0" occluded="0" xtl="917.0" ytl="703.1" xbr="1025.3" ybr="791.0" z_order="0"><attribute name="track_id">18</attribute></box>
+    <box frame="77" keyframe="1" outside="1" occluded="0" xtl="917.0" ytl="703.1" xbr="1025.3" ybr="791.0" z_order="0"><attribute name="track_id">18</attribute></box>
+  </track>
+  <track id="15" label="vehicle_track" source="manual">
+    <box frame="91" keyframe="1" outside="0" occluded="0" xtl="903.9" ytl="694.6" xbr="1005.4" ybr="787.1" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="92" keyframe="1" outside="0" occluded="0" xtl="904.8" ytl="695.6" xbr="1001.6" ybr="788.3" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="93" keyframe="1" outside="0" occluded="0" xtl="898.3" ytl="695.4" xbr="997.4" ybr="788.3" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="94" keyframe="1" outside="0" occluded="0" xtl="883.8" ytl="697.3" xbr="992.7" ybr="790.7" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="95" keyframe="1" outside="0" occluded="0" xtl="888.9" ytl="700.5" xbr="987.6" ybr="793.9" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="96" keyframe="1" outside="0" occluded="0" xtl="883.6" ytl="701.7" xbr="982.3" ybr="795.6" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="97" keyframe="1" outside="0" occluded="0" xtl="876.4" ytl="702.5" xbr="983.2" ybr="797.0" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="98" keyframe="1" outside="0" occluded="0" xtl="865.4" ytl="705.5" xbr="971.5" ybr="800.7" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="99" keyframe="1" outside="0" occluded="0" xtl="861.8" ytl="705.4" xbr="967.9" ybr="800.9" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="100" keyframe="1" outside="0" occluded="0" xtl="870.0" ytl="703.1" xbr="967.3" ybr="798.0" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="101" keyframe="1" outside="0" occluded="0" xtl="857.7" ytl="704.1" xbr="968.1" ybr="799.2" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="102" keyframe="1" outside="0" occluded="0" xtl="858.8" ytl="708.0" xbr="955.6" ybr="803.0" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="103" keyframe="1" outside="0" occluded="0" xtl="857.8" ytl="709.8" xbr="955.2" ybr="805.2" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="104" keyframe="1" outside="0" occluded="0" xtl="854.1" ytl="705.3" xbr="952.1" ybr="800.5" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="105" keyframe="1" outside="0" occluded="0" xtl="856.2" ytl="698.1" xbr="959.6" ybr="793.4" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="106" keyframe="1" outside="0" occluded="0" xtl="853.1" ytl="690.6" xbr="956.9" ybr="785.7" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="107" keyframe="1" outside="0" occluded="0" xtl="854.3" ytl="684.8" xbr="958.5" ybr="779.7" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="108" keyframe="1" outside="0" occluded="0" xtl="857.8" ytl="684.8" xbr="959.2" ybr="780.0" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="109" keyframe="1" outside="0" occluded="0" xtl="863.1" ytl="683.3" xbr="962.8" ybr="779.1" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="110" keyframe="1" outside="0" occluded="0" xtl="865.5" ytl="686.8" xbr="967.9" ybr="783.4" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="111" keyframe="1" outside="0" occluded="0" xtl="867.1" ytl="686.2" xbr="975.4" ybr="782.8" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="112" keyframe="1" outside="0" occluded="0" xtl="877.0" ytl="682.5" xbr="975.1" ybr="778.6" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="113" keyframe="1" outside="0" occluded="0" xtl="883.2" ytl="674.5" xbr="981.2" ybr="770.5" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="114" keyframe="1" outside="0" occluded="0" xtl="883.2" ytl="672.4" xbr="980.7" ybr="768.4" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="115" keyframe="1" outside="0" occluded="0" xtl="885.5" ytl="673.7" xbr="982.3" ybr="769.1" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="116" keyframe="1" outside="0" occluded="0" xtl="885.7" ytl="678.2" xbr="984.9" ybr="773.0" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="117" keyframe="1" outside="0" occluded="0" xtl="888.1" ytl="680.0" xbr="983.9" ybr="774.5" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="118" keyframe="1" outside="0" occluded="0" xtl="883.7" ytl="679.9" xbr="989.8" ybr="773.6" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="119" keyframe="1" outside="0" occluded="0" xtl="891.7" ytl="676.6" xbr="986.6" ybr="769.5" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="120" keyframe="1" outside="0" occluded="0" xtl="891.8" ytl="675.4" xbr="985.8" ybr="766.8" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="121" keyframe="1" outside="0" occluded="0" xtl="885.0" ytl="671.7" xbr="985.1" ybr="762.0" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="122" keyframe="1" outside="0" occluded="0" xtl="890.5" ytl="673.7" xbr="982.7" ybr="762.9" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="123" keyframe="1" outside="0" occluded="0" xtl="893.9" ytl="676.2" xbr="985.5" ybr="765.0" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="124" keyframe="1" outside="0" occluded="0" xtl="899.5" ytl="678.3" xbr="990.5" ybr="766.9" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="125" keyframe="1" outside="0" occluded="0" xtl="905.4" ytl="674.7" xbr="995.8" ybr="762.1" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="126" keyframe="1" outside="0" occluded="0" xtl="913.2" ytl="671.4" xbr="1002.4" ybr="757.4" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="127" keyframe="1" outside="0" occluded="0" xtl="916.3" ytl="668.9" xbr="1004.4" ybr="753.5" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="128" keyframe="1" outside="0" occluded="0" xtl="924.8" ytl="668.6" xbr="1011.5" ybr="751.5" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="129" keyframe="1" outside="0" occluded="0" xtl="932.2" ytl="666.4" xbr="1017.7" ybr="748.1" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="130" keyframe="1" outside="0" occluded="0" xtl="933.9" ytl="666.2" xbr="1019.3" ybr="746.6" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="131" keyframe="1" outside="0" occluded="0" xtl="942.3" ytl="665.2" xbr="1025.2" ybr="744.7" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="132" keyframe="1" outside="0" occluded="0" xtl="946.2" ytl="665.7" xbr="1027.9" ybr="744.1" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="133" keyframe="1" outside="0" occluded="0" xtl="952.5" ytl="665.0" xbr="1034.3" ybr="742.6" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="134" keyframe="1" outside="0" occluded="0" xtl="957.2" ytl="666.3" xbr="1036.3" ybr="742.3" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="135" keyframe="1" outside="0" occluded="0" xtl="958.0" ytl="664.7" xbr="1035.8" ybr="739.2" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="136" keyframe="1" outside="0" occluded="0" xtl="960.0" ytl="663.7" xbr="1036.3" ybr="737.0" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="137" keyframe="1" outside="0" occluded="0" xtl="958.8" ytl="665.4" xbr="1034.2" ybr="737.9" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="138" keyframe="1" outside="0" occluded="0" xtl="959.5" ytl="666.6" xbr="1034.1" ybr="738.4" z_order="0"><attribute name="track_id">20</attribute></box>
+    <box frame="139" keyframe="1" outside="1" occluded="0" xtl="959.5" ytl="666.6" xbr="1034.1" ybr="738.4" z_order="0"><attribute name="track_id">20</attribute></box>
+  </track>
+  <track id="16" label="vehicle_track" source="manual">
+    <box frame="94" keyframe="1" outside="0" occluded="0" xtl="627.5" ytl="687.6" xbr="745.8" ybr="784.2" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="95" keyframe="1" outside="0" occluded="0" xtl="620.9" ytl="689.8" xbr="733.6" ybr="789.3" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="96" keyframe="1" outside="0" occluded="0" xtl="611.5" ytl="691.2" xbr="718.7" ybr="793.8" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="97" keyframe="1" outside="0" occluded="0" xtl="588.4" ytl="692.7" xbr="710.8" ybr="798.9" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="98" keyframe="1" outside="0" occluded="0" xtl="578.6" ytl="694.4" xbr="699.6" ybr="804.4" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="99" keyframe="1" outside="0" occluded="0" xtl="562.7" ytl="696.7" xbr="693.5" ybr="811.2" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="100" keyframe="1" outside="0" occluded="0" xtl="555.4" ytl="696.1" xbr="675.2" ybr="814.5" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="101" keyframe="1" outside="0" occluded="0" xtl="533.8" ytl="695.6" xbr="667.5" ybr="818.6" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="102" keyframe="1" outside="0" occluded="0" xtl="519.4" ytl="699.3" xbr="643.4" ybr="827.6" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="103" keyframe="1" outside="0" occluded="0" xtl="497.2" ytl="702.8" xbr="627.4" ybr="837.6" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="104" keyframe="1" outside="0" occluded="0" xtl="479.2" ytl="700.9" xbr="615.1" ybr="840.4" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="105" keyframe="1" outside="0" occluded="0" xtl="461.5" ytl="696.6" xbr="603.8" ybr="841.8" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="106" keyframe="1" outside="0" occluded="0" xtl="438.8" ytl="694.1" xbr="588.1" ybr="845.6" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="107" keyframe="1" outside="0" occluded="0" xtl="412.2" ytl="692.0" xbr="569.1" ybr="850.3" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="108" keyframe="1" outside="0" occluded="0" xtl="378.6" ytl="695.5" xbr="552.4" ybr="863.2" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="109" keyframe="1" outside="0" occluded="0" xtl="347.5" ytl="701.1" xbr="542.8" ybr="878.5" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="110" keyframe="1" outside="0" occluded="0" xtl="320.7" ytl="704.1" xbr="521.1" ybr="892.6" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="111" keyframe="1" outside="0" occluded="0" xtl="288.4" ytl="708.5" xbr="500.8" ybr="908.9" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="112" keyframe="1" outside="0" occluded="0" xtl="248.9" ytl="707.5" xbr="476.5" ybr="920.5" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="113" keyframe="1" outside="0" occluded="0" xtl="225.0" ytl="699.5" xbr="503.2" ybr="921.5" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="114" keyframe="1" outside="0" occluded="0" xtl="169.2" ytl="699.5" xbr="496.5" ybr="936.6" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="115" keyframe="1" outside="0" occluded="0" xtl="97.1" ytl="698.8" xbr="470.1" ybr="952.5" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="116" keyframe="1" outside="0" occluded="0" xtl="56.5" ytl="703.7" xbr="408.1" ybr="982.9" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="117" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="719.7" xbr="344.7" ybr="1031.6" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="118" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="723.7" xbr="331.8" ybr="1065.7" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="119" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="723.5" xbr="321.2" ybr="1098.7" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="120" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="734.6" xbr="314.6" ybr="1159.0" z_order="0"><attribute name="track_id">22</attribute></box>
+    <box frame="121" keyframe="1" outside="1" occluded="0" xtl="0.0" ytl="734.6" xbr="314.6" ybr="1159.0" z_order="0"><attribute name="track_id">22</attribute></box>
+  </track>
+  <track id="17" label="vehicle_track" source="manual">
+    <box frame="129" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="684.4" xbr="183.4" ybr="784.4" z_order="0"><attribute name="track_id">28</attribute></box>
+    <box frame="130" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="682.4" xbr="162.6" ybr="787.9" z_order="0"><attribute name="track_id">28</attribute></box>
+    <box frame="131" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="677.2" xbr="126.9" ybr="789.6" z_order="0"><attribute name="track_id">28</attribute></box>
+    <box frame="132" keyframe="1" outside="1" occluded="0" xtl="0.0" ytl="677.2" xbr="126.9" ybr="789.6" z_order="0"><attribute name="track_id">28</attribute></box>
+  </track>
+  <track id="18" label="vehicle_track" source="manual">
+    <box frame="146" keyframe="1" outside="0" occluded="0" xtl="26.2" ytl="696.0" xbr="198.0" ybr="781.0" z_order="0"><attribute name="track_id">31</attribute></box>
+    <box frame="147" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="693.1" xbr="182.0" ybr="782.2" z_order="0"><attribute name="track_id">31</attribute></box>
+    <box frame="148" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="692.8" xbr="162.9" ybr="785.7" z_order="0"><attribute name="track_id">31</attribute></box>
+    <box frame="149" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="693.0" xbr="107.5" ybr="791.3" z_order="0"><attribute name="track_id">31</attribute></box>
+    <box frame="150" keyframe="1" outside="1" occluded="0" xtl="0.0" ytl="693.0" xbr="107.5" ybr="791.3" z_order="0"><attribute name="track_id">31</attribute></box>
+  </track>
+  <track id="19" label="vehicle_track" source="manual">
+    <box frame="166" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="724.6" xbr="114.8" ybr="803.4" z_order="0"><attribute name="track_id">32</attribute></box>
+    <box frame="167" keyframe="1" outside="1" occluded="0" xtl="0.0" ytl="724.6" xbr="114.8" ybr="803.4" z_order="0"><attribute name="track_id">32</attribute></box>
+  </track>
+  <track id="20" label="vehicle_track" source="manual">
+    <box frame="178" keyframe="1" outside="0" occluded="0" xtl="56.2" ytl="718.6" xbr="225.8" ybr="810.7" z_order="0"><attribute name="track_id">33</attribute></box>
+    <box frame="179" keyframe="1" outside="0" occluded="0" xtl="23.3" ytl="718.3" xbr="199.7" ybr="813.1" z_order="0"><attribute name="track_id">33</attribute></box>
+    <box frame="180" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="719.7" xbr="171.0" ybr="817.1" z_order="0"><attribute name="track_id">33</attribute></box>
+    <box frame="181" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="718.8" xbr="158.2" ybr="819.8" z_order="0"><attribute name="track_id">33</attribute></box>
+    <box frame="182" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="721.2" xbr="119.0" ybr="826.7" z_order="0"><attribute name="track_id">33</attribute></box>
+    <box frame="183" keyframe="1" outside="1" occluded="0" xtl="0.0" ytl="721.2" xbr="119.0" ybr="826.7" z_order="0"><attribute name="track_id">33</attribute></box>
+  </track>
+  <track id="21" label="vehicle_track" source="manual">
+    <box frame="195" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="717.6" xbr="152.9" ybr="816.5" z_order="0"><attribute name="track_id">36</attribute></box>
+    <box frame="196" keyframe="1" outside="0" occluded="0" xtl="0.0" ytl="721.7" xbr="107.9" ybr="825.4" z_order="0"><attribute name="track_id">36</attribute></box>
+    <box frame="197" keyframe="1" outside="1" occluded="0" xtl="0.0" ytl="721.7" xbr="107.9" ybr="825.4" z_order="0"><attribute name="track_id">36</attribute></box>
+  </track>
+</annotations>

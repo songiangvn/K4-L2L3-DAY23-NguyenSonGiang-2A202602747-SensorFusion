@@ -1,0 +1,54 @@
+{
+  "segment": "training_segment-10963653239323173269_1924_000_1944_000_with_camera_labels.tfrecord",
+  "confirmed": 749,
+  "matches": 746,
+  "sum_sq_err": 36.34959343293843,
+  "ghosts": 3,
+  "misses": 680,
+  "rmse": 0.22073965787528688,
+  "n_id_switches": 2,
+  "n_ghost_frames": 3,
+  "first_switches": [
+    {
+      "frame": 73,
+      "gt": "-jGx5h2KM1RTCWtkALlTPg",
+      "from": 16,
+      "to": 18
+    },
+    {
+      "frame": 91,
+      "gt": "-jGx5h2KM1RTCWtkALlTPg",
+      "from": 18,
+      "to": 20
+    }
+  ],
+  "first_ghosts": [
+    {
+      "frame": 136,
+      "track": 20,
+      "x": [
+        49.90834452615851,
+        -0.803581886211567,
+        1.312929908681091
+      ]
+    },
+    {
+      "frame": 137,
+      "track": 20,
+      "x": [
+        50.43871662087088,
+        -0.7747870200455821,
+        1.2744831735256952
+      ]
+    },
+    {
+      "frame": 138,
+      "track": 20,
+      "x": [
+        50.96831117625036,
+        -0.7892330534296663,
+        1.2442303123327068
+      ]
+    }
+  ]
+}
