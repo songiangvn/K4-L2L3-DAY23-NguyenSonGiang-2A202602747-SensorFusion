@@ -215,5 +215,5 @@ Ghi rõ, kể cả khi không dùng ("Không dùng AI"). Xem [RULES.md](../RULES
 - [x] Đã commit `student/artifacts/metrics*.json` và `student/artifacts/grade_run*.log` (không sửa tay)
 - [x] Đã điền đủ file này, gồm khai báo AI
 - [x] Không commit dữ liệu Waymo, weights, `paths.yaml`, API key
-- [ ] `python tools/check_submission.py` báo `KẾT QUẢ: SẴN SÀNG NỘP`
+- [x] `python tools/check_submission.py` báo `KẾT QUẢ: SẴN SÀNG NỘP`
 - [ ] Đã push và nộp link repo + commit hash trên LMS ([hướng dẫn nộp](../SUBMISSION.md))
