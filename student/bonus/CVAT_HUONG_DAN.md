@@ -25,4 +25,4 @@ nên bằng chứng CVAT dùng segment thứ 4 của khoá học
    - **frame 67** (xe bạc giữa làn: `track_id = 16`) và **frame 73** (cùng xe: `track_id = 18`) → **đổi ID**;
    - **frame 91** (cùng xe: `track_id = 20`) → đổi ID lần 2;
    - **frame 137** (`track_id = 20`, xe ở ~50 m) → **ghost** theo metric (tâm GT đã ra ngoài cửa sổ 50 m).
-6. Lưu ảnh chụp vào `student/bonus/cvat_screenshot_*.png` rồi commit.
+6. Lưu ảnh chụp vào `student/bonus/cvat_screenshot_*.png` rồi commit. (Đã làm: `cvat_screenshot_frame067/073/091/137.png`.)

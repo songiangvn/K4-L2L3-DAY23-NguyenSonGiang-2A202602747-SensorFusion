@@ -193,6 +193,13 @@ Mọi số liệu bonus được sinh bằng script trong `student/bonus/`:
       - Đây là đánh đổi của tham số vòng đời: xoá nhanh thì ít ghost, nhưng bị phân mảnh ID khi detector chập chờn ở xa.
     - **Ghost** frame 136–138 (track 20, x ≈ 50 m): xe vẫn có thật, nhưng tâm GT đã vượt mép cửa sổ đánh giá `lim_x = 50 m` trong khi track ước lượng còn ở 49.9 m. Đây là ghost do biên cửa sổ, không phải FP.
   - Preview vẽ lại từ XML: `bonus/cvat_preview_109636.png`. Hướng dẫn import và chụp ảnh: `bonus/CVAT_HUONG_DAN.md`.
+  - **Ảnh chụp CVAT** (đã import `cvat_annotations_109636.xml` vào task CVAT trên app.cvat.ai, format CVAT 1.1, 199 ảnh FRONT):
+    - `bonus/cvat_screenshot_frame067.png`: xe bạc giữa làn, `track_id: 16`.
+    - `bonus/cvat_screenshot_frame073.png`: **cùng xe**, `track_id: 18`, tức **đổi ID lần 1**.
+    - `bonus/cvat_screenshot_frame091.png`: **cùng xe**, `track_id: 20`, tức **đổi ID lần 2**.
+    - `bonus/cvat_screenshot_frame137.png`: `track_id: 20` khi xe ở ~50 m. Đây là frame được tính là **ghost** theo metric, vì tâm GT đã ra ngoài cửa sổ `lim_x`.
+
+    Số "VEHICLE_TRACK 13/15/16" trên ảnh là ID nội bộ CVAT tự đánh khi import; ID của tracker là thuộc tính `track_id`.
 
 ## Khai báo sử dụng AI (bắt buộc)
 
